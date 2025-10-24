@@ -1,2 +1,2 @@
 # Fatina
-Esercitaqzione Java
+Esercitazione Java
