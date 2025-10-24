@@ -7,6 +7,8 @@ public class Fatina extends EssereMagico {
         this.coloreAli = coloreAli;
     }
 
+    bool Ali(){retrun true;}
+
     @Override
     public void usaPotere() {
         System.out.println("🧚‍♀️ La fatina " + nome + " agita le sue ali " + coloreAli +
